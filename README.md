@@ -1,9 +1,11 @@
 #  Performance Comparison of Large Language Models on Brazil's Medical Revalidation Exam for Foreign-Trained Graduates
 
 <p align="center">
-This repository provides scripts and results from the study of Performance Comparison of Large Language Models on Brazil's Medical Revalidation Exam for Foreign-Trained Graduates.
+ **Authors:** Renato Bessa, Adonias Caetano de Oliveira, Rafael Freitas Bessa, Daniel Lima Sousa, Rafaela Alves, Amanda Barbosa, Alinne Carneiro, Carla Soares, and Ariel Soares Teles.
+</p>
 
- **Authors:** Renato Freitas Bessa, Adonias Caetano de Oliveira, Ariel Soares Teles
+<p align="center">
+This repository provides scripts and results from the study of Performance Comparison of Large Language Models on Brazil's Medical Revalidation Exam for Foreign-Trained Graduates.
 </p>
 
 <div align="justify">
