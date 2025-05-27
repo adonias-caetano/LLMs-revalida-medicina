@@ -66,9 +66,7 @@ This repository contains various folders related to the study of LLMs and data v
 
 ## 🤖 Access our submitted paper
 
-Published paper in the <a href="https://www.mdpi.com/journal/applsci/sections/biomedical_engineering"> <strong>Biomedical Engineering</strong></a>
-
-
+Published paper in the <a href="https://www.mdpi.com/journal/applsci"> <strong>Applied Sciences</strong></a>
 
 ### [Paper Link]() 
 
@@ -79,8 +77,4 @@ If there is a bug, or other improvement you would like to report or request, we 
 Please, feel free to contact us for any questions: [![Gmail Badge](https://img.shields.io/badge/-ariel.teles@ifma.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ariel.teles@ifma.edu.br)](mailto:ariel.teles@ifma.edu.br )
 
 
-## 📚 References
-
-* 
-*
 
