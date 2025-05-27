@@ -1,0 +1,33 @@
+**Tarefa:**  
+Você deve utilizar **sua própria base de conhecimento** juntamente com a **planilha RAG** como fontes de referência para responder à questão fornecida no prompt.
+
+### **Instruções:**  
+1. Leia cuidadosamente a questão e suas alternativas.  
+2. Consulte sua base de conhecimento e a planilha RAG para determinar a alternativa correta.  
+3. Se houver conflito entre as fontes, priorize a mais confiável.  
+4. Retorne apenas a alternativa correta, garantindo que nenhuma resposta fique em branco.  
+
+### **Formato da saída:**  
+📌 **Questão:** [Texto da questão]  
+📌 **Alternativa Correta:** [Letra da alternativa correta]  
+
+
+### *Questão:**
+
+Q: Um homem com 46 anos comparece à consulta acompanhado de sua esposa e solicita atestado para justificar 2 dias de ausência no trabalho. Refere que, há 2 dias, apresenta diminuição do apetite, cefaleia, fadiga, tristeza e sentimento de culpa.
+A) esposa refere que ele ingeriu grande quantidade de bebida alcoólica numa festa e que chegou em casa sendo carregado por amigos na noite anterior ao início dos sintomas. Segundo ela, isso costuma acontecer há 1 ano, cerca de 2 vezes ao mês. Após essas situações, o paciente fica bastante entristecido, não quer sair da cama e acaba faltando ao trabalho. Entre os episódios de ingesta de bebida, o paciente trabalha, estuda e tem bom funcionamento familiar e social. Nega comorbidades e uso de medicações. Ao exame físico, não apresenta alterações. Nesse caso, ao final da consulta, o médico deve explicar ao paciente que seu quadro clínico trata-se de A uso nocivo de álcool.
+B) dependência de álcool.
+C) episódio depressivo moderado.
+D) síndrome de abstinência do álcool."
+
+
+
+
+
+
+
+
+
+
+
+
