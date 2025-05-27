@@ -9,15 +9,35 @@ This repository provides scripts and results from the study of Performance Compa
  ## 📋 Requirements
 
 * Google Colab
-* python pandas library
-* python unidecode library
-* python word_tokenize, stopwords, sent_tokenize (nltk) libraries
-* python wordcloud library
-* python matplotlib.pyplot library
-* python transformers library
-* python seaborn library
-* python imblearn.under_sampling library
-* python sklearn.model_selection library
+* Python Language
+ * from google.colab import files
+ * import numpy as np
+ * import pandas as pd
+ * import seaborn as sns
+ * import matplotlib.pyplot as plt
+ * import re
+ * import random
+ * import os
+ * import asyncio
+ * from unidecode import unidecode
+ * from nltk.tokenize import word_tokenize, sent_tokenize
+ * from nltk.corpus import stopwords
+ * from wordcloud import WordCloud
+ * from transformers import TrainingArguments, TextStreamer
+ * from sklearn.model_selection import train_test_split
+ * from imblearn.under_sampling import RandomUnderSampler
+ * import faiss
+ * import openai
+ * from openai import AsyncOpenAI
+ * from unsloth import FastLanguageModel
+ * import torch
+ * from trl import SFTTrainer
+ * from unsloth import is_bfloat16_supported
+
+* R Language
+ * googledrive
+ * readxl
+ * dplyr
 
 ## 📖  Revalida
 
