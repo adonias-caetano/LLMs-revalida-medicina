@@ -19,9 +19,17 @@ This repository provides scripts and results from the study of Performance Compa
 * python imblearn.under_sampling library
 * python sklearn.model_selection library
 
-## 📖  Dataset
+## 📖  Revalida
 
-The <a href="https://zenodo.org/records/10070747"><strong>original dataset</strong></a> consists of 2691 sentences without suicidal ideation and 1097 sentences with suicidal ideation in PT-BR. The dataset is available in Comma-separated values (CSV) format in two columns: text and target, respectively the sentence and class 0 (negative) or 1 (positive). 
+The **Revalida** (National Examination for the Revalidation of Medical Diplomas) is a Brazilian assessment designed to validate medical degrees obtained abroad. It is aimed at both foreign-trained doctors and Brazilian nationals who have studied medicine outside the country and wish to practise in Brazil. The exam ensures that candidates possess the necessary knowledge, skills, and competencies required for medical practice in Brazil.
+
+The **Revalida** consists of two distinct phases:
+1. **Written Examination** – This stage evaluates theoretical knowledge through multiple-choice and discursive questions.
+2. **Clinical Skills Assessment** – Candidates must demonstrate practical medical competencies in simulated clinical scenarios.
+
+To participate, applicants must meet specific requirements, including legal residency in Brazil and submission of authenticated academic documents. The exam is conducted twice a year and is now the **sole method** for revalidating foreign medical diplomas in Brazil.
+
+Available exam repositories include assessments from **2017.01, 2017.02, 2020.01, 2020.02, 2021.01, 2022.01, 2022.02, 2023.01, 2023.02, and 2024.01**.
 
 ## 🛠 Fine-tuning BERT-based Models
 
