@@ -2,6 +2,8 @@
 
 <p align="center">
 This repository provides scripts and results from the study of Performance Comparison of Large Language Models on Brazil's Medical Revalidation Exam for Foreign-Trained Graduates.
+
+ **Authors:** Renato Freitas Bessa, Adonias Caetano de Oliveira, Ariel Soares Teles
 </p>
 
 <div align="justify">
