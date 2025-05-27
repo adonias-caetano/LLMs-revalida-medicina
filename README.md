@@ -62,7 +62,9 @@ This repository contains various folders related to the study of LLMs and data v
 
 ## 🤖 Access our submitted paper
 
-Published paper in the <a href="https://cadernos.ensp.fiocruz.br/ojs/index.php/csp"> <strong>Cadernos de Saúde Pública</strong></a>
+Published paper in the <a href="https://www.mdpi.com/journal/applsci/sections/biomedical_engineering"> <strong>Biomedical Engineering</strong></a>
+
+
 
 ### [Paper Link]() 
 
